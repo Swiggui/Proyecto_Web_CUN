@@ -13,3 +13,7 @@ En caso de alguna variación en el directorio del backend, configurar el siguien
 
 En caso de variación en los parámetros del servidor de base de datos, configurar el siguiente archivo:
 \Crud-con-PHP\utils\connection\config
+
+Usuario para probar:
+Benitito
+root1234
